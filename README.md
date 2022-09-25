@@ -1,5 +1,5 @@
-<h2 style = "color:blue" style="font-family:verdana">IBM NALAIYA THIRAN</h2>
+<h2>IBM NALAIYA THIRAN</h2>
 								
-	University Admit Eligibility Predictor
+<p style = "color:blue" style="font-family:verdana">University Admit Eligibility Predictor</p>
 
 

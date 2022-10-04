@@ -21,3 +21,10 @@
   <li> Rekha M </li>
   </ul>
 <br>
+
+<h2> More Information </h2>
+<ul><b>
+  <li> <b>College: </b> <i> R.M.K. Engineering College </i> </li> <br>
+  <li> <b>Department: </b> <i> Information Technology </i> </li> <br> 
+  </ul>
+<br>

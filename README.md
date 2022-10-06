@@ -4,7 +4,12 @@
   <h2 align="center"> University Admit Eligibility Predictor <br></h2>
 
   </div>
-  
+
+<h2> Team ID: </h2> 
+<ul><b>
+  <li> PNT2022TMID16260  </li>
+  </b>
+<br>  
 
 <h2> Team Members: </h2> 
 <ul><b>

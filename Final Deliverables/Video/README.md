@@ -5,6 +5,10 @@
 
   </div>
 
+<h2> DEMO VIDEO LINK </h2>
+<p> Drive Link for Demo: https://drive.google.com/file/d/1HBmNl5_8_CWGEAINC6tgxqRr_2xPt2lE/view?usp=sharing </p>
+<br>
+
 <h2> Team ID: </h2> 
 <ul><b>
   <li> PNT2022TMID16260  </li>
@@ -34,6 +38,4 @@
   </ul>
 <br>
 
-<h2> DEMO VIDEO LINK </h2>
-<p> Drive Link for Demo: https://drive.google.com/file/d/1HBmNl5_8_CWGEAINC6tgxqRr_2xPt2lE/view?usp=sharing </p>
-<br>
+
